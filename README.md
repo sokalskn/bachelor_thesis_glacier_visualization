@@ -49,3 +49,6 @@ Main animation script. Methods: semi-Lagrangian method with RK2 midpoint method
 - **Python 3.11.9** + Firedrake, icepack, rasterio, shapely, scipy, matplotlib
 - **Blender 4.5.3 LTS**
 
+
+## Licence
+This project is licensed under the MIT License
